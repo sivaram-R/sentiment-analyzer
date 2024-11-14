@@ -41,23 +41,4 @@ Progress
 * Negation
 * Punctuation
 
-Social Network APIs
----------------
-* Twitter Search API
-* Facebook Graph API
-
-Computation Engines
--------------------
-Wolfram Alpha
-
-Team Members
-------------
-<table border="0">
-<tr><th>Name</th><th>Email</th></tr>
-<tr><td>Sudhanshu Mishra</td><td> mrsud94@gmail.com</td></tr>
-<tr><td>Ambar Mehrotra</td><td>ambar.prince@gmail.com</td></tr>
-</table>
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mrsud/sentiment-analyzer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
